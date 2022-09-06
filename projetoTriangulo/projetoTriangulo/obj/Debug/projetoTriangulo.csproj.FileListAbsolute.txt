@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\projetoTriangulo\projetoTriangulo\bin\Debug\projetoTriangulo.exe.config
+C:\Users\Aluno\Desktop\projetoTriangulo\projetoTriangulo\bin\Debug\projetoTriangulo.exe
+C:\Users\Aluno\Desktop\projetoTriangulo\projetoTriangulo\bin\Debug\projetoTriangulo.pdb
+C:\Users\Aluno\Desktop\projetoTriangulo\projetoTriangulo\obj\Debug\projetoTriangulo.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\projetoTriangulo\projetoTriangulo\obj\Debug\projetoTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\projetoTriangulo\projetoTriangulo\obj\Debug\projetoTriangulo.exe
+C:\Users\Aluno\Desktop\projetoTriangulo\projetoTriangulo\obj\Debug\projetoTriangulo.pdb
